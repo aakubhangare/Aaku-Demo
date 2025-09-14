@@ -1,3 +1,3 @@
 # Aaku-Demo
-This is my first git repository
-Author- Aakanksha Bhnagare
+This is my first GIT Repository.
+Author- Aakanksha Bhnagare.
